@@ -2,11 +2,6 @@
 
 ### Gulshan Kumar - 20161082
 
-### Aman Bansal - 20161008
-
-**Code is Readable, Comments are added and Report is attached**
-
-
 
 ### How to run code
 
