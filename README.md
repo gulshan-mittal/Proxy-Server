@@ -4,7 +4,7 @@
 
 ### Aman Bansal - 20161008
 
-==**Code is Readable, Comments are added and Report is attached**==
+**Code is Readable, Comments are added and Report is attached**
 
 
 
@@ -45,22 +45,3 @@ A proxy server is a dedicated computer or a software system running on a compute
 When the proxy server gets a request, it checks if the requested object is cached (i.e. server
 already has the request webpage or file), and if yes, it returns the object from the cache, without
 contacting the server.If the object is not cached, the proxy retrieves the object from the server, returns it to you and caches a copy of this webpage for future requests.In case of any further requests for the same, the proxy must utilize the “If Modified Since” header to check if any updates have been made, and if not, then serve the response from the cache.
-
-
-
-![Proxy Server Model](proxy-server-model.png)
-
-
-
-## **Response**
-
-![Response1](Response1.png)
-
-
-
-![Response2](Response2.png)
-
-
-
-![Response3](Response3.png)
-
