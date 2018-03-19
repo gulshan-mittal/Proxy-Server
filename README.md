@@ -23,8 +23,6 @@
 
     - Set the proxy e.g in firefox open the preference option inside network use `proxy= 127.0.0.1` and `port = 7777`
 
-    ![proxy-setting](proxy-setting.png)
-
     - open any file
 
 
