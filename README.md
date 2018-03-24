@@ -1,6 +1,6 @@
 # HTTP Proxy Server
 
-### Gulshan Kumar
+### Gulshan Kumar Mittal
 
 ### How to run code
 
